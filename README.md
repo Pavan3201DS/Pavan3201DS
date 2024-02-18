@@ -21,19 +21,17 @@ I am a versatilist and easily adapt to different hats (Data scientist , Data ana
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/274px-Pandas_mark.svg.png"></a>
+<a href="https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview" target="_blank"> <img align="left" src="https://cdn3d.iconscout.com/3d/premium/thumb/microsoft-power-bi-10410782-8500319.png?f=webp" alt="pytorch" height="42px"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDYtwClF9aMnAMG-NGJh4Azm7N6CuvmshGEg&usqp=CAU" alt="tensorflow" height="42px"/> </a> 
+<a href="https://seaborn.pydata.org/" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://www.programsbuzz.com/sites/default/files/logo/seaborn-logo.png"> </a>
+<a href="https://en.wikipedia.org/wiki/Statistics" target="_blank"><img align="left" alt="Java" height ="42px" src="https://sports-passion.net/wp-content/uploads/2021/07/def0a0200b4c97c93d88d6aeec386ab0.jpg"></a>
+<a href="https://www.ibm.com/topics/machine-learning" target="_blank"> <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwNufTd72akt3Ffc6-RYGyEkZrV3IF7IJGwQ&usqp=CAU" alt="firebase" height ="42px"/> </a>
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Excel-Logo.png"> </a>
+<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png"></a>
+
+
 
 <br>
 
