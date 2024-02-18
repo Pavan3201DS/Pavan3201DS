@@ -31,19 +31,29 @@ I am a versatilist and easily adapt to different hats (Data scientist , Data ana
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Excel-Logo.png"> </a>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png"></a>
 
+<br>
+<br>
+<br>
 
 
 <br>
 
 
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+<h3 align="left">🔥   My Stats :</h3>
 
-</a>
+###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Pavan3201DS&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Pavan3201DS/Pavan3201DS/output/snake.svg" alt="Snake animation" />
+
+###
 <br>
 
 ### 🛠️ My Projects
