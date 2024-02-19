@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Pavan!
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Char-Al)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/charles-van-goethem/)
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Pavan3201DS)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pavan-kumar-209251201)
 
 
 I am a versatilist and easily adapt to different hats (Data scientist , Data analyst📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
@@ -49,9 +49,6 @@ I am a versatilist and easily adapt to different hats (Data scientist , Data ana
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Pavan3201DS/Pavan3201DS/output/snake.svg" alt="Snake animation" />
 
 ###
 <br>
