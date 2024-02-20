@@ -16,7 +16,7 @@ I am a versatilist and easily adapt to different hats (Data scientist , Data ana
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Pavan3201DS?tab=repositories)
 - 💬 &nbsp; Ask me about anything analytics related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/pavan-kumar-209251201)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+- 📝 &nbsp; Checkout my [profile](https://drive.google.com/file/d/1Jp7y8n4rwAtIC3UVlCwUEu5oidAXQiLQ/view?usp=sharing)
 
 <br>
 
