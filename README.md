@@ -54,7 +54,7 @@ I am a versatilist and easily adapt to different hats (Data scientist , Data ana
 <br>
 
 ### 🛠️ My Projects
-<a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
+<a href="https://github.com/Pavan3201DS/Customer-segmentation" target="_blank"> <img alt="artistify" src="https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png" height="68" align="left"> </a>
 <a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
 <a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
 <a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
