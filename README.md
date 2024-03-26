@@ -56,4 +56,6 @@ I am a versatilist and easily adapt to different hats (Data scientist , Data ana
 ### 🛠️ My Projects
 <a href="https://github.com/Pavan3201DS/Customer-segmentation" target="_blank"> <img alt="artistify" src="https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png" height="68" align="left"> </a>
 <a href="https://github.com/Pavan3201DS/House_pricing_analysis" target="_blank"> <img alt="sheetsdatabase" src="https://cdn-icons-png.flaticon.com/512/8365/8365406.png"  height="68" align="left"> </a>
+<a href="https://github.com/Pavan3201DS/Data-Gathering-with-API-s" target="_blank"> <img alt="sheetsdatabase" src="https://www.akana.com/sites/default/files/styles/social_preview_image/public/image/2019-06/image-blog-getting-most-api-management-600x400.jpg?itok=u4-5bLol"  height="68" align="left"> </a>
+<a href="https://github.com/Pavan3201DS/ML_Project" target="_blank"> <img alt="sheetsdatabase" src="https://cdn-icons-png.flaticon.com/512/8365/8365406.png"  height="68" align="left"> </a>
 
